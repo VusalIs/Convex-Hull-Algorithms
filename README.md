@@ -30,7 +30,7 @@ To find a convex hull, there are a lot of different algorithms(Gift Wrapping, Gr
 1. Initialize p as leftmost point.
 1. Make it current point.
 1. Do following while we do not come back to the first (or leftmost) point.
-    1. Find left most point compare to current point.
+    . Find left most point compare to current point.
     1. Make new left most point current point and draw a line.
     1. When current value is equal to initial value stop.
 
